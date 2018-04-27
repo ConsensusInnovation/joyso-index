@@ -1,0 +1,180 @@
+zh_TW: 
+  contact: 聯絡我們
+  location: 台北市大安區安和路2段5號9F-3
+  service_time: 客服時間：10:00 ~ 22:00 (UTC+8)
+  privacy: 隱私權政策
+  use: 使用條款
+  locale: 中文
+  exchange:
+    title: 交易所
+  blog:
+    title: 部落格
+  faq:
+    title: 問與答
+    link: 'https://joyso.zendesk.com/hc/zh-tw'
+
+  index:
+    title: 全球首創混合式去中心化交易所
+    title_btn: 交易所
+    announce: 'JOYSO公告：新幣上架！'
+
+    video_title: '「混合式交易所」就是未來'
+    video_text: JOYSO，建立在以太坊的混合式交易所，兼具中心化交易所的高速交易和去中心化交易所的高安全性
+    how_title: JOYSO 如何運作？
+    how_work_title01: 1.入金
+    how_work_text01:  交易前，將虛擬幣存入JOYSO 智能合約中，JOYSO無法動用您的資產。
+    how_work_title02: 2.撮合交易
+    how_work_text02: 訂單送出後，JOYSO 撮合系統將即時進行交易撮合。
+    how_work_title03: 3.驗證交易
+    how_work_text03: 將撮合成功的訂單放上以太坊區塊鏈上，大家為你的交易進行驗證。
+    
+    feature_title: 特色
+    feature01_title: 智能撮合
+    feature01_text: 快速鏈下撮合系統；處理一對多訂單配對
+    feature02_title: 低手續費
+    feature02_text: 礦工費低於其他去中心化交易所
+    feature03_title: 智能合約
+    feature03_text: 交易所無法更改訂單內容或移動使用者資產
+    feature04_title: 交易透明化
+    feature04_text: 交易皆在區塊鏈上完成，交易過程透明可追溯
+
+    media_title: 媒體
+    media_text01: 用戶自行保管錢包與私鑰。JOYSO 不保管私鑰，因此無須擔心交易所被攻擊，同時交易所也無權移動使用者的資產。
+    media_text02: 混合式交易所結合了中心化與去中心化交易的效率和安全性，此技術將帶給使用者全新的體驗
+    media_text03: JOYSO 透過智能合約確保使用者隱私，並使用中心化交易模式降低交易費
+
+    partners_title: 合作夥伴
+
+  privilege:
+    title: JOY專區
+    header: JOY專區
+
+    model_title: 商業模式﻿
+    model_text: 我們收益主要將來自交易手續費，測試版啟用後便開始接收以太幣和JOY代幣，其中order maker 支付0.1%、order taker 支付0.2%的手續費。
+
+    token_title: Token Utilization
+    token_subtitle: '代幣擁有者將能參與JOYSO各項活動，並享有以下優惠及權利：'
+    token_text01: JOY使用者可享有50%交易手續費折抵（此優惠不包含礦工手續費）
+    token_text02: JOY Select 計畫參與者可在交易所免費上幣，廣告費亦可享有50%折抵的優惠
+    token_text03: 保證金交易推出以後，JOY使用者可透過較低的擔保金額進行交易
+
+    reduction_title: 代幣增值計畫
+    reduction_text: 每季結束後我們將計算當季淨利潤的50%，並銷毀等值的JOY代幣。此紀錄將公佈於區塊鏈上
+    reduction_how: HOW
+    reduction_how_text: 當市面上代幣總數下降，相對而言每顆代幣的價值將會上升
+
+
+  about:
+    title: 關於JOYSO
+    text: JOYSO 是一個結合了中心化和去中心交易所的優點的混合式數位貨幣交易所，支援所有 ERC 20 協定的數位貨幣。我們致力為您打造優質的交易平台，讓您可以在更安全、快速的環境下，享受有品質的交易過程。
+
+    token_title: 代幣ICO銷售已於2018年4月結束
+    token_title01: 代幣ICO銷售已結束，如欲購買代幣請至交易所購買。
+    token_text01: '代幣名稱：JOY <br>
+                    代幣類型：Ethereum ERC-20 <br>
+                    代幣價值：1 ETH = 10,000 JOY <br>
+                    總發行量：200,000,000 JOY <br>
+                    ICO 售出量：80,583,625 JOY (7072.36 ETH ) <br>
+                    未售出代幣：所有未售出代幣將由團隊回收保留。未來將以每年不高於15％的速率釋放。 '
+
+
+    roadmap_title: 路線圖
+    roadmap_date01: 2017年10月
+    roadmap_text01: 計畫啟動
+    roadmap_date02: 2018年3月
+    roadmap_text02: ICO啟動
+    roadmap_date03: 2018年4月
+    roadmap_text03: 發布測試鏈上的產品原型
+    roadmap_date04: 2018年5月
+    roadmap_text04: JOYSO交易所推出
+    roadmap_date05: 2018年9月
+    roadmap_text05: 推出JoySelect，JOYSO手機版上線
+    roadmap_date06: 2018年12月
+    roadmap_text06: 交易API
+    roadmap_date07: 2019年3月
+    roadmap_text07: 保證金交易
+    roadmap_date08: 2019年6月
+    roadmap_text08: 鏈下支付整合
+    roadmap_date09: 2019年9月
+    roadmap_text09: 推出動支付和錢包
+  
+    team_title: 管理團隊
+    team_name01: 宋倬榮
+    team_job01: CEO
+    team_text01: 'Tom 為資深區塊鏈技術研發者，對區塊鏈進步有著深刻使命。 <br>
+                    2013創世上第一個28nm 比特幣採礦晶片 <br>
+                    2014創立Alcheminer 推出首款40奈米萊特幣採礦晶片。'
+    team_name02: 高崎鈞
+    team_job02: COO
+    team_text02: 'Taka 曾擔任工研院技術經理。<br>
+                    為群眾募資平台Dodoker 技術架構貢獻者。<br>
+                    連兩屆擔任「區塊鏈愛好者大會」策劃者。'
+    team_name03: 謝咏宸
+    team_job03: CTO
+    team_text03: 'Will 是 Gcoin 的關鍵貢獻者，Gcoin 是分佈式企業區塊鏈基礎架構。  <br>
+                DiQi 數字代幣錢包平台開發團隊的一員，旨在改善區塊鏈服務的用戶體驗。 <br>
+                活躍於以太坊台北活動社群，同時擔任智能合約課程的顧問與講者，並發表了許多技術文章。'
+    advisor_title: 顧問團隊
+    advisor_name01: 周宇修
+    advisor_job01: 法律顧問
+    advisor_text01: '現任職於聯誠國際專利商標事務所，亦為台北律師公會理事、台灣人權促進會副會長、國際特赦組織台灣分會理事、國際公益法組織成員。'
+    advisor_name02: 陳昶吾
+    advisor_job02: 顧問
+    advisor_text02: 'AMIS 首席科學家，為Ethereum Casper研究貢獻者，曾在中國最大的互聯網數據公司21Vianet擔任高級區塊鏈工程師。'
+    advisor_name03: 杜弘毅
+    advisor_job03:  顧問
+    advisor_text03: '為台灣網路認證公司策略長，負責戰略規劃和市場開發。亦為多個國家計劃負責人，如個人身份識別中心計劃、台灣票據交換所區塊鏈電子支票計劃、電子認證計劃等。'
+    advisor_name04: Bret Treasure
+    advisor_job04: 顧問
+    advisor_text04: 'Blockchain Australia 創始董事會成員。曾任澳大利亞網路行業協會 (AWIA) 主席，澳大利亞網路獎評審主席。'
+    advisor_name05: 謝禎國
+    advisor_job05: 顧問
+    advisor_text05: '為日本最大IT服務商恩悌悌數據股份有限公司台灣區總經理。恩悌悌公司為應全球區塊鏈發展，建立區塊鍊活用推動小組，以金融、公共與社會建設及B2B服務事業領域為重點項目。'
+
+  career:
+    title: 人才招募
+    text: 共識科技Consensus Innovation是一間專注區塊鏈應用的新創公司，由一群對區塊鏈技術有理想和熱忱的年輕人合夥創辦，成員專長橫跨數位貨幣、區塊鏈、資訊安全與智能合約等領域，成員皆積極參與國內外區塊鏈社群，並且擔任講師定期分享區塊鏈創新技術。 
+    job01: 'Blockchain Industry Researcher <br> 區塊鏈產業研究員'
+    job01_text: '<li> 對Blockchain有基本認識，了解PoW和PoS的原理。 </li>
+                <li>曾實際使用Bitcoin/Litecoin/Ethereum 等區塊鏈加密貨幣。 </li>
+                <li>對區塊鏈相關應用(醫療、公益捐款、分散式存儲)架構有深入了解。</li>'
+    job02: 'Blockchain Engineer (Dapp Researcher) <br>區塊鏈研究開發工程師'
+    job02_text: '<li> 對於學習區塊鏈知識有高度興趣</li>
+                <li>擅長JavaScript 或 Solidity </li>
+                <li>使用web3.JS與客戶端應用連接</li>
+                <li>測試智能合約，可以使用Truffle</li>'
+    job03: 'Digital Marketing Manager-China <br> 數位行銷經理(中國)'
+    job03_text: '<li> 負責中國地區廣告投放 </li>
+              <li>中國用戶社群營運與線上活動推廣操作(QQ群、新浪、微信公眾號)  </li>
+              <li>鎖定中國市場的潛在用戶</li>
+              <li>負責洽談中國地區線上行銷合作 </li>
+              <li>負責行銷預算控管</li>
+              <li>提升品牌知名度及業務範圍</li>'
+    job04: 'Digital Marketing Manager-USA&Europe <br> 數位行銷經理(歐美)'
+    job04_text: '<li> 我們正在尋找擅長媒體採購的人才，管理美國與歐洲地區每日Facebook, Google, Twitter, Telegram, medium, bitcointalk,LINE 和Slack 上的廣告</li>
+                <li>美國與歐洲數位廣告活動提案</li>
+                <li>與數據分析師合作規劃地區性的活動、關鍵字、廣告文案與數位媒體策略。</li>'
+    job05: 'Content Manager (Global Social Media) <br> 社群內容經理'
+    job05_text: '<li>負責圖文內容發想，擔任社群編輯，負責公司經營中的全球主流社群平台以及幣圈愛用社群。 </li>
+              <li>了解社群對產品的期待，有效反應給公司。  </li>
+              <li>撰寫中英文文案，於FB、Twitter、SLACK、medium、bitcointalk、LINE、telegram、wechat 等社群上。</li>
+              <li>能判斷客戶反應之情事嚴重程度，並做出及時、有效的應對</li>'
+
+    job06: 'Data Analyst <br> 數據分析師'
+    job06_text: '<li> 蒐集並處理產業相關數據並獨立研究，進行日常產業動態分析及監控</li>
+                <li>協助研發團隊、行銷團隊進行產品營運策略方向調整</li>
+                <li>向營運長匯報，提供報表供各部門決策參考</li>
+                <li>開發或使用工具來呈現資料分析結果 </li>
+                <li>熟悉統計分析方法或 R 語言</li>
+                <li> 熟悉各式量化分析工具</li>'
+
+
+  activity: 
+    title: 活動
+    title01: REFERRAL PROGRAM
+    text01: In order to encourage everyone to promote JOYSO, there is no need to register or login during the event. It will be easy to get a recommended reward with a maximum purchase amount of 6%. In addition, the recommender will receive a 3% maximum purchase price.
+    table_title01: When
+    table_text01: From 3/13 02:00 A.M. (UTC+0) to the end of ICO. Rewards were issued before the end of March 2018.
+
+
+

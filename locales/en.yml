@@ -1,0 +1,171 @@
+en:  
+  contact: Contact Us
+  location: 9F.-3, No.5, Sec. 2, Anhe Rd., Da’an Dist., Taipei City, Taiwan
+  service_time: Service Time：10:00 ~ 22:00 (UTC+8)
+  privacy: Privacy Policy
+  use: Terms of Use
+  locale: English
+  exchange:
+    title: Exchange
+  blog:
+    title: Blog
+  faq:
+    title: FAQ
+    link: 'https://joyso.zendesk.com/hc/en-us'
+
+  index:
+    title: World’s 1st Hybrid Decentralized Exchange
+    title_btn: Exchange
+    announce: 'JOYSO Announcement: New ICO has launched!'
+
+    video_title: '" Hybrid Exchange " Is The Future'
+    video_text: JOYSO, the Ethereum based exchange, offers the speed of a centralised platform while providing the security and privacy of a decentrlized exchange.
+    
+    how_title: How Does JOYSO Work
+    how_work_title01: 1.Deposit to JOYSO
+    how_work_text01: Before trading, deposit cryptocurrencies to the exchange. (You are actually depositing coins into the JOYSO Smart Contract, JOYSO has no control over your asset.)
+    how_work_title02: 2.Matching on JOYSO
+    how_work_text02: Once you place an order, JOYSO matching system will make real time order matching for you. 
+    how_work_title03: 3.Verification on Blockchain
+    how_work_text03: Place successfully_ matched orders on the Ethereum blockchain. Computers around the world will do the verification for you.
+    
+    feature_title: Features
+    feature01_title: Smart Match
+    feature01_text: Off_chain smart matching; one_to_many matches efficiently.
+    feature02_title: Lower Fees
+    feature02_text: Gas fees are lower than fully_decentralized exchanges.
+    feature03_title: Smart Contract
+    feature03_text: The exchange can't directly alter the useraccount balance.
+    feature04_title: Transparent
+    feature04_text: Completed trades on blockchain with transparency.
+
+    media_title: Media
+    media_text01: Users can maintain control over their wallets and private keys. Traders do not have to worry about losing funds from an attack against the exchange,nor a loss of money from the exchange itself taking money from users.
+    media_text02: A hybrid-decentralized exchange, which combines the advantages of both systems, and offers high matching efficiency and security,will provide a completely new user experience and lead the cryptocurrency market.
+    media_text03: JOYSO uses Smart-contracts to ensure the privacy of users’ personal and financial information and at the same time, adopting centralized procedures for order matching to enhance the transaction process while simultaneously reducing matching costs.
+
+    partners_title: Partners
+
+  privilege:
+    title: Privilege
+    header: Privilege
+
+    model_title: Business Model
+    model_text: Income will be generated from trading fees in Ether or JOY effective from launch(beta ver.). These will be set at 0.1% for order makers and 0.2% for order takers.
+
+    token_title: Token Burning Plan
+    token_subtitle: 'Token holders will have the right to participate JOYSO Marketing Campaign and more benefits as below:'
+    token_text01: Token holders can Enjoy a 50% discount on transaction fees (not including gas) when using JOY.
+    token_text02: Partners of JOY Select can list the token for free and earn a 50% advertising fee discount
+    token_text03: If decentralized margin trading is launched, token holders can trade with lower collateral compared to ETH.
+
+    reduction_title: Token Reduction Plan
+    reduction_text: Each quater JOYSO will burn JOY tokens equivalent to 50% of the net profit, until a total of 100 million JOY tokens are destroyed. The process will be announced on the Blockchain.
+    reduction_how: HOW
+    reduction_how_text: Reducing the total amount of JOY tokens in circulation increases the value of individual tokens through scarcity.
+
+
+  about:
+    title: About
+    text: JOYSO is a hybrid cryptocurrency exchange that combines the advantages from both centralized and decentralized exchanges, supporting all tokens that meet the ERC 20 standard. We are dedicated to building a high quality exchange for you to trade in a safer and faster environment, while enjoying quality transaction process.
+
+    token_title: Token sale - Already Ended in 2018/04
+    token_title01: ICO has ended. If you would like to purchase tokens please visit the exchange.
+    token_text01: 'Token Name : JOY <br>
+          Token Type   : Ethereum ERC20 <br>
+          Total Supply : 200,000,000 JOY <br>
+          ICO Results : 80,583,625 JOY (7071.36ETH) <br>
+          Unsold Tokens will be retained by JOYSO team and may be released over future years at a rate no higher than 15% per annum. '
+
+
+    roadmap_title: Roadmap
+    roadmap_date01: October, 2017
+    roadmap_text01: Project start
+    roadmap_date02: March, 2018
+    roadmap_text02: ICO start
+    roadmap_date03: April, 2018
+    roadmap_text03: Prototype release on testnet
+    roadmap_date04: May, 2018
+    roadmap_text04: JOYSO launch
+    roadmap_date05: September, 2018
+    roadmap_text05: JoySelect + Mobile version
+    roadmap_date06: December, 2018
+    roadmap_text06: Trading API
+    roadmap_date07: March, 2019
+    roadmap_text07: Margin trade
+    roadmap_date08: June, 2019
+    roadmap_text08: Off-chain payment integration
+    roadmap_date09: September, 2019
+    roadmap_text09: Mobile payment and wallet
+  
+    team_title: Management Team
+    team_name01: Tom
+    team_job01: CEO
+    team_text01: Successful innovator with strong commitment to improve in the Blockchain community in 2013.Supervised the development of the world’s first 28nm Bitcoin mining chip. Founder of AlcheMiner, introduced the 40nm Litecoin mining chip in 2014.
+    team_name02: Taka
+    team_job02: COO
+    team_text02: Former Technical Manager of Industrial Technology Research Institute.Technical architecture contributor to the Dodoker project, a blockchain-based crowdfunding platform. General event coordinator of the Taiwan Blockchain Summit.
+    team_name03: Will
+    team_job03: CTO
+    team_text03: Key contributor to Gcoin, a permissioned, distributed blockchain infrastructure for enterprise.Developer of DiQi digital token wallet platform, which aims to improve user experience across blockchain services. Active member in Ethereum Taipei Meetup community, serving as a lecturer and publishing articles relating to Blockchain technology and smart contracts.
+
+    advisor_title: Advisor
+    advisor_name01: Clarence Chou
+    advisor_job01: Legal Advisor
+    advisor_text01: Current member of Global Network for Public Interest Law Fellow, An-Chung Attorneys-at-Law,Lawyer at Li and Cai Intellectual Property Office, and Taiwan Association for Human Rights, Executive Director Amnesty International Taiwan, Executive Director Taipei Bar Association 
+    advisor_name02: Changwu Chen
+    advisor_job02: Advisor
+    advisor_text02: Currently serves as the Chief Scientist at AMIS,Key contributor for Ethereum Research on Casper. Worked as a senior blockchain engineer for 21Vianet, the largest independent data center operator in China.
+    advisor_name03: Tony Tu
+    advisor_job03:  Advisor
+    advisor_text03: Chief Strategy Officer of TAIWAN-CA Inc, focusing on e-business security and new e-business models of FinTech. Director of national projects including the Project to build Taiwan Personal Financial Information Identification Center, POC Project of e-check with Blockchain Technology for Taiwan Automated Clearing House, and Project to deliver e-Certifications over multiple mobile devices for new generation financial services.
+    advisor_name04: Bret Treasure
+    advisor_job04: Advisor
+    advisor_text04: Founding board member of Blockchain Australia. Advisor, marketing consultant and digital content creator in the blockchain and smart contract community. Former president of Australian Web Industry Association and foreman juror at the Australian Web Awards.
+    advisor_name05: Jhen Guo Sie 
+    advisor_job05: Advisor
+    advisor_text05: The general manager of NTT Data Taiwan, which is responsible for the SAP business and management of the Taiwan and Greater China region.  NTT Data is the biggest IT servicer in Japan. To cooperate with the development of the global blockchain, NTT established the tactical team, focusing on financial, public and social infrastructure, and the field of B2B service.
+
+  career:
+    title: Career
+    text: 'Consensus Innovation is a startup focusing on blockchain applications. Formed by a team of experts in the field of cryptocurrencies, blockchains, information security and smart contracts, who also happen to be passionate about the blockchain technology. All members are active in local and foreign blockchain communities, and regularly share blockchain innovation as speakers.'
+    job01: 'Blockchain Industry Researcher <br> 區塊鏈產業研究員'
+    job01_text: '<li> Basic knowledge of blockchain, knows PoW and  PoS.</li>
+                <li>Has experience using blockchain cryptocurrencies such as Bitcoin/Litecoin/Ethereum.</li>
+                <li>Deep understanding of applied blockchain architecture (medical, philanthropic, distributed storage)</li>'
+    job02: 'Blockchain Engineer (Dapp Researcher) <br>區塊鏈研究開發工程師'
+    job02_text: '<li> Having a highly interest in learning Blockchain knowledge  </li>
+                <li>Strong at JavaScript or Solidity  </li>
+                <li>Interfacing with client side applications using web3.JS</li>
+                <li>Testing smart contracts, perhaps using Truffle</li>'
+    job03: 'Digital Marketing Manager-China <br> 數位行銷經理(中國)'
+    job03_text: '<li> Responsible for advertisement in China.</li>
+                    <li>Manage the Chinese user community and online campaign/promotion(QQ, Sina and WeChat)</li>
+                    <li>Targeting potential users in China.</li>
+                    <li>Responsible for online marketing collaboration in China.</li>
+                    <li>Responsible for managing marketing budget.</li>
+                    <li>Promote brand recognition and expand business </li>'
+    job04: 'Digital Marketing Manager-USA&Europe <br> 數位行銷經理(歐美)'
+    job04_text: "<li> We are looking for a Media Buyer Expert, who can manage daily Facebook, Google, Twitter, Telegram, medium, bitcointalk,LINE and Slack advertisement for multiple regions including USA and Europe. </li>
+                <li>Propose digital advertising campaigns in USA and Europe. </li>
+                <li>Contact data analysis to evaluate campaign, keyword, ad copy and digital media strategy to regions.</li>"
+    job05: 'Content Manager (Global Social Media) <br> 社群內容經理'
+    job05_text: "<li>Responsible for social media content and JOYSO's global community on all mainstream social platform as a social media manager.</li>
+                <li> Understand the community's expectation of our product and communicate that effectively to the company.  </li>
+                <li>Generate Chinese and English copy for FB、Twitter、SLACK、medium、bitcointalk、LINE、telegram and wechat community. </li>
+                <li>Determine level of urgency and make effective responses to community feedback. </li>"
+    job06: 'Data Analyst <br> 數據分析師'
+    job06_text: '<li>Collect and process data of the industry, carry out independent research to analyze and monitor daily industry activity. </li>
+                <li>Assist the research and marketing team to adjust operational strategy.</li>
+                <li>Report to the COO and provide reports to each departments for decision making.</li>
+                <li>Develop or use tools to show the result of the analysis.</li>
+                <li>Familiar with all kinds of quantitative analysis tool.</li>'
+
+
+  activity: 
+    title: Activity
+    title01: REFERRAL PROGRAM
+    text01: In order to encourage everyone to promote JOYSO, there is no need to register or login during the event. It will be easy to get a recommended reward with a maximum purchase amount of 6%. In addition, the recommender will receive a 3% maximum purchase price.
+    table_title01: When
+    table_text01: From 3/13 02:00 A.M. (UTC+0) to the end of ICO. Rewards were issued before the end of March 2018.
+
